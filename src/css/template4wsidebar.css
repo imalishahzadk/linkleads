@@ -1,0 +1,145 @@
+.section-container {
+    position: relative;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .iiimgggggg {
+    width: 100%;
+    height: 800px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .uuuserImgggggg {
+    position: absolute;
+    top: 150px;
+    left: 50%; 
+    transform: translateX(-50%);
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    border: 3px solid #ffffff; /* Adjust this color to match your background */
+  }
+  
+  .UUUserHeadingggggg {
+    position: absolute;
+    top: 265px;
+    left: 50%; 
+    transform: translateX(-50%);
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+  }
+  .uuuserParagraphh{
+    position: absolute;
+    top: 300px;
+    left: 50%; 
+    transform: translateX(-50%);
+  }
+  
+  .uuuserInfoooooo {
+    margin-top: 1%;
+    color: #3855B3;
+  }
+  .uuuserDesccc{
+    position: absolute;
+    top: 330px;
+    left: 60%; 
+    transform: translateX(-50%);
+    width: 70%;
+    color: #3855B3;
+  }
+  body {
+    margin: 0;
+    background-color: #f6f7fa;
+  }
+  
+  .bbbtn-divvvvvv {
+    position: absolute;
+    top: 360px;
+    left: 50%; 
+    transform: translateX(-50%);
+    margin-top: 3%;
+    text-align: center;
+    width: 60%;
+  }
+  
+  .bbb11111, .bbb22222, .bbb33333,.bbb444 {
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    border-radius: 50px;
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    border: 1px solid rgb(197, 195, 195);
+    color: #3855B3;
+    text-decoration: none;
+    font-size: 18px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Adjust the shadow properties as needed */
+
+  }
+  
+  .b-icon {
+    position:absolute;
+    margin-right: 70%;
+  }
+  
+  .text {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .lllinklead-pppppp {
+    position: absolute;
+    top: 700px;
+    left: 50%; 
+    transform: translateX(-50%);
+    color: #3855B3;
+  }
+  .sssocial-iconssssss {
+    position: absolute;
+    top: 620px;
+    left: 50%; 
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .sssocial-iconssssss img {
+    margin: 0 15px;
+    width: 30px;
+    height: 30px;
+  }
+  @media only screen and (max-width: 768px) {
+    .uuserImgggggg {
+      top: 150px;
+      left: 50%; 
+    }
+    .UUUserHeadingggggg {
+      left: 50%;
+    }
+    .uuuserParagraphh{
+        left: 62%;
+        width: 80%;
+    }
+    .bbbtn-divvvvvv {
+      margin-top: 10%;
+    }
+    .uuuserDesccc{
+        margin-top: 1%;
+        width: 70%;
+        left: 51%;
+    }
+    .lllinklead-pppppp {
+      margin-left: 0;
+      text-align: center;
+    }
+  }
+  

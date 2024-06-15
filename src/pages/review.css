@@ -1,0 +1,68 @@
+/* Reviews.css */
+.bg-black {
+    background-color: #000;
+}
+
+.grid {
+    display: grid;
+}
+
+.grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.md\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.gap-4 {
+    gap: 1rem;
+}
+
+.bg-gray-400 {
+    background-color: #ccc;
+}
+
+.rounded-xl {
+    border-radius: 1rem;
+}
+
+.p-4 {
+    padding: 1rem;
+}
+
+.w-7 {
+    width: 1.75rem;
+}
+
+.h-7 {
+    height: 1.75rem;
+}
+
+.mt-2 {
+    margin-top: 0.5rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.rounded-full {
+    border-radius: 9999px;
+}
+
+.bg-yellow-500 {
+    background-color: #f59e0b;
+}
+
+.border-white {
+    border-color: #fff;
+}
+
+.font-semibold {
+    font-weight: 600;
+}
+
+.text-orange-500 {
+    color: #ed8936;
+}

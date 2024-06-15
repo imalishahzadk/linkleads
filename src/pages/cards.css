@@ -1,0 +1,170 @@
+
+.card1 {
+    background-color: rgba(255, 206, 186, 0.4);
+    /* box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); */
+    border-radius: 10px;
+    width: 191px;
+    height: 86px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    margin-left: 29px;
+  }
+  
+  .card2 {
+    background-color: rgba(167, 249, 255, 0.4);
+    /* box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); */
+    border-radius: 10px;
+    width: 191px;
+    height: 86px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    margin-left: 29px;
+  }
+  .card3 {
+    background-color: rgba(243, 235, 128, 0.4);
+    /* box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); */
+    border-radius: 10px;
+    width: 191px;
+    height: 86px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    margin-left: 29px;
+  }
+  .card4 {
+    background-color: rgba(246, 190, 253, 0.4);
+    /* box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); */
+    border-radius: 10px;
+    width: 191px;
+    height: 86px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    margin-left: 29px;
+  }
+  .card5 {
+    background-color: rgba(187, 247, 138, 0.4);
+    /* box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); */
+    border-radius: 10px;
+    width: 191px;
+    height: 86px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    margin-left: 29px;
+  }
+.category-icon-wrapper, .eye-icon-wrapper, .eye-icon1-wrapper, .graph-icon-wrapper, .click-icon-wrapper{
+    width: 40px;
+    height: 40px; 
+    border-radius: 30%;
+    /* box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: -10;
+  }
+
+  .category-icon-wrapper{
+    background-color: rgba(247, 170, 139, 0.4);
+  }
+  .eye-icon-wrapper{
+    background-color: rgba(126, 226, 233, 0.4);
+  }
+  .eye-icon1-wrapper{
+    background-color: rgba(218, 209, 84, 0.4);
+  }
+  .click-icon-wrapper{
+    background-color: rgba(219, 138, 229, 0.4);
+
+  }
+  .graph-icon-wrapper{
+    background-color: rgba(169, 247, 105, 0.4);
+  }
+  
+  .category-icon {
+    font-size: 25px;
+    color: rgba(238, 67, 0, 0.9);
+  }
+  .eye-icon {
+    font-size: 25px;
+    color: rgba(0, 221, 184, 0.9);
+  }
+  .eye-icon1 {
+    font-size: 25px;
+    color: rgba(199, 189, 45, 0.9);
+  }
+  .click-icon {
+    font-size: 25px;
+    color: rgba(151, 49, 165, 0.9);
+  }
+  .graph-icon {
+    font-size: 25px;
+    color: rgba(112, 197, 43, 0.9);
+  }
+
+  .p2{
+    font-size: 14px;
+    margin-left: 9px;
+    color: #565657;
+  }
+  .headin1{
+    margin-left: 5px;
+  }
+  .number {
+    display: inline-block;
+    margin-left: 5px; 
+    font-size: 20px;
+  }
+  
+  .percentage1, .percentage2, .percentage3, .percentage4, .percentage5 {
+    display: inline-block;
+    /* color: rgba(238, 67, 0, 0.9); */
+    margin-left: 3px;
+    font-size: 12px;
+    margin-bottom: 6px;
+
+  }
+  .percentage1{
+    color: rgba(238, 67, 0, 0.9);
+  }
+.percentage2{
+    color: rgba(0, 221, 184, 0.9);
+}
+.percentage3{
+    color: rgba(199, 189, 45, 0.9);
+
+}
+.percentage4{
+    color: rgba(151, 49, 165, 0.9);
+
+}
+.percentage5{
+    color: rgba(112, 197, 43, 0.9);
+}
+
+  .progress-icon1, .progress-icon2, .progress-icon3, .progress-icon4, .progress-icon5{
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 12px;
+  }
+  .progress-icon1{
+    color: rgba(238, 67, 0, 0.9);
+
+  }
+  .progress-icon2{
+    color: rgba(0, 221, 184, 0.9);
+
+  }
+  .progress-icon3{
+    color: rgba(199, 189, 45, 0.9);
+
+  }
+  .progress-icon4{
+    color: rgba(151, 49, 165, 0.9);
+  }
+  .progress-icon5{
+    color: rgba(112, 197, 43, 0.9);
+  }
+  

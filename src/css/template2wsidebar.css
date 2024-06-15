@@ -1,0 +1,119 @@
+.section-container {
+    position: relative;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .imgggg {
+    width: 100%;
+    height: 350px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .userImgggg {
+    position: absolute;
+    top: 200px;
+    left: 12%; 
+    transform: translateX(-50%);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid #ffffff; /* Adjust this color to match your background */
+  }
+  
+  .UserHeadingggg {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+  }
+  
+  .userInfoooo {
+    position: absolute;
+    top: 200px;
+    left: 30%; 
+    transform: translateX(-50%);
+    margin-top: 1%;
+    color: #ffffff;  
+  }
+  
+  .userDescccc {
+    position: absolute;
+    top: 240px;
+    left: 60%; 
+    transform: translateX(-50%);
+    color: #e7e7e7;  
+    margin-top: 3%;
+    width: 80%;
+  }
+  
+  body {
+    margin: 0;
+    background-color: #f6f7fa;
+  }
+  
+  .btn-divvv {
+    margin-top: 3%;
+    margin-left: 30%;
+    text-align: center;
+  }
+  
+  .b111, .b222, .b333,.bb444 {
+    background-color: #ffffff;
+    width: 60%;
+    height: 50px;
+    border-radius: 50px;
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    border: 2px solid;
+    color: #000000;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .b-icon {
+    position:absolute;
+    margin-right: 70%;
+  }
+  
+  .text {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .linklead-p {
+    margin-left: 42%;
+    margin-top: 5%;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .userImgggg {
+      top: 220px;
+      left: 25%; 
+    }
+    .userInfoooo {
+        margin-top: 6%;
+      margin-left: 53%;
+      width: 80%;
+    }
+    .userDescccc {
+        margin-top: 10%;
+      margin-left: 9%;
+      width: 50%;
+    }
+    .btn-divvv {
+      margin-left: 24%; 
+      margin-top: 5%;
+    }
+    .linklead-p {
+      margin-left: 0;
+      text-align: center;
+    }
+  }
+  
